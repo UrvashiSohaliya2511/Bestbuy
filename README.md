@@ -10,3 +10,10 @@
 - Dynamic cart page 
 - Payment page
 
+# Contributors
+- Urvashi Sohaliya
+- Subojit Mukherjee
+- Suranjan Achary
+- Shivendra Katiyar
+- Kunal
+- Md Sharique
